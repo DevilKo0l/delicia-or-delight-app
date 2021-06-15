@@ -43,11 +43,10 @@
 
 [![Delicia or delight Screen Shot][product-screenshot]](https://ibb.co/SJkMZj0)
 
-Delicia or delight will records all the previous food order from you and will give you the recomemdation base on the history. It show all the restauant where to server your favorite dishes
-This is my project for software engineer class
+Delicia or delight will records all the previous food order from you and will give you the recomemdation base on the history. It show all the restauant where to server your favorite dishes. This is my project for software engineer class
 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
