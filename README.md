@@ -45,11 +45,6 @@
 
 Delicia or delight will records all the previous food order from you and will give you the recomemdation base on the history. It show all the restauant where to server your favorite dishes. This is my project for software engineer class
 
-
-
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
 ### Built With
 
 * [React native](https://reactnative.dev/)
@@ -58,9 +53,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
