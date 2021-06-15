@@ -54,9 +54,9 @@ Delicia or delight will records all the previous food order from you and will gi
 <!-- GETTING STARTED -->
 ## Getting Started
 
+
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -82,11 +82,3 @@ https://developer.android.com/studio/run/managing-avds
 4. Run on simulator
    ```JS
    yarn start
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
