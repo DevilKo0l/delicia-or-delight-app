@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Delicia or delight Screen Shot][product-screenshot]](https://ibb.co/SJkMZj0)
 
 Delicia or delight will records all the previous food order from you and will give you the recomemdation base on the history. It show all the restauant where to server your favorite dishes
 This is my project for software engineer class
