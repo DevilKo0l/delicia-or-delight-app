@@ -1,24 +1,25 @@
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/DevilKo0l/delicia-or-delight-app">
-    <img src="assets/images/ice-kacang.jpg" alt="Logo" width="80" height="80">
-  </a>
+<div align="center"> 
 
   <h3 align="center">Delicia Or Delight</h3>
 
   <p align="center">
-    Find your favorite food in any location    
+    Find your favorite food in any location   
+    <br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="#">View Demo</a>
+    <br />
+    <a href="https://ibb.co/SJkMZj0">View Screenshots</a>
+    
   </p>
-</p>
-
+</div>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[Delicia or delight Screen Shot](https://ibb.co/SJkMZj0)
 
 Delicia or delight will records all the previous food order from you and will give you the recomemdation base on the history. It show all the restauant where to server your favorite dishes. This is my project for software engineer class
 
